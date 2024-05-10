@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EleventhGuidedExercise</string>
+    <string name="age">Age</string>
+    <string name="last_name_first_name">Last Name, First Name</string>
+    <string name="subject_survey">Subject Survey</string>
+    <string name="gender">Gender:</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="what_is_are_your_favorite_computer_nsubject_s">What is/are your favorite computer \nsubject/s?:</string>
+    <string name="comprog2">COMPROG2</string>
+    <string name="appdet">APPDET</string>
+    <string name="comprog1">COMPROG1</string>
+    <string name="intcomp">INTCOMP</string>
+    <string name="which_do_you_prefer_for_a_thesis_ntopic_title">Which do you prefer for a thesis \nTopic/Title</string>
+    <string name="what_job_do_you_prefer_after_ngraduation">What job do you prefer after \nGraduation</string>
+    <string name="submit">Submit</string>
+    <string name="submitR">Submit</string>
+    <string name="ageR">Age:</string>
+    <string name="subject_survey_confirmation">Subject Survey Confirmation</string>
+    <string name="genderR">Gender:</string>
+    <string name="jobR">Job:</string>
+    <string name="nameR">Name:</string>
+    <string name="subject_sR">Subject/s:</string>
+    <string name="thesis_topicR">Thesis Topic:</string>
+    <string name="thank_you_for_participarting_in_our_survey">Thank you for Participarting in our Survey!</string>
+    <string name="exit">Exit</string>
+</resources>
